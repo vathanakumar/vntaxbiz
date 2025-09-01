@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/vntaxbiz/sw.js', { scope: '/vntaxbiz/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/vntaxbiz/vntaxbiz.webmanifest', { scope: '/vntaxbiz/' })})}
